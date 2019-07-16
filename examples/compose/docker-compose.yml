@@ -1,6 +1,3 @@
-version: '2.0'
-# rethinkdb demonstration of the Autopilot pattern
-
 services:
   rethinkdb:
     build: ../../
